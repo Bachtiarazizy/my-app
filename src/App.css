@@ -120,13 +120,13 @@ img {
   color: var(--title-color);
 }
 
-.section_subttitle {
+.section_subtitle {
   display: block;
   font-size: var(--small-font-size);
   margin-bottom: 4rem;
 }
 
-.section_subttitle,
+.section_subtitle,
 .section_title {
   text-align: center;
 }
